@@ -3,7 +3,7 @@
 ---
 
 ## **Daveen Kurutz**
-### [Beaver County Times (Penn.)](http://www.timesonline.com/)
+### **[Beaver County Times (Penn.)](http://www.timesonline.com/)**
 
 **Contact**: dkurutz@timesonline.com
 
