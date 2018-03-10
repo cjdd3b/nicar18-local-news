@@ -67,7 +67,7 @@
 
 **Contact**: evan.wyloge@gmail.com
 
-  * In 2016, AZCIR designed and executed the automated twitter account [@AZDarkMoneyBot](https://twitter.com/AZDarkMoneyBot], which sent tweets containing information about state-level "Dark Money" campaign finance filings in as close to real time as the state's campaign finance laws allowed. This required us to write some code to parse emails, store data, fetch filings with a headless browser, read them as PDFs, re-store new data, then arrange and send the data to the twitter account. We will be running it this year, but because of changes in reporting laws made in the middle of the 2016 election cycle (🤔), these filings are no longer made in real time, but instead, at regular quarterly-ish reporting intervals. Obviously, this hinders the utility of our twitter account, but hopefully it will also serve to demonstrate what campaign finance laws actually mean for the public, in terms of transparency.
+  * In 2016, AZCIR designed and executed the automated twitter account [@AZDarkMoneyBot](https://twitter.com/AZDarkMoneyBot), which sent tweets containing information about state-level "Dark Money" campaign finance filings in as close to real time as the state's campaign finance laws allowed. This required us to write some code to parse emails, store data, fetch filings with a headless browser, read them as PDFs, re-store new data, then arrange and send the data to the twitter account. We will be running it this year, but because of changes in reporting laws made in the middle of the 2016 election cycle (🤔), these filings are no longer made in real time, but instead, at regular quarterly-ish reporting intervals. Obviously, this hinders the utility of our twitter account, but hopefully it will also serve to demonstrate what campaign finance laws actually mean for the public, in terms of transparency.
 
 ---
 
@@ -115,3 +115,81 @@ Although CBC is a large public broadcaster in Canada, I work out of the Montreal
 
   * Basically, I built a scraper that scrapes all four major utility companies in New Jersey every 15 minutes and showcase the number of people who are experiencing power outages in a series of charts and graphics. It is embeddable, but also lives in its own [project page](https://s3.amazonaws.com/nj-apps/outage-tracker-2.0/data/index.html). Note: This is Phase 1 of the project. Phase 2 involves scraping town-by-town and ETA estimates. There will also be a quick load version for people who are experiencing power outages.
 
+---
+
+## **Matt Dempsey**
+### **[Houston Chronicle](http://www.houstonchronicle.com/)**
+
+**Contact**: mizzousundevil@gmail.com
+
+  *  We took blockgroup data from FEMA and property data from Harris County. I rolled up the property data to those blockgroups and used the [resulting analysis](https://www.houstonchronicle.com/local/hc-investigations/harvey/developingstorm/) to direct reporters to areas with a history of flooding but lots of new construction. Also overlaid property data with federal floodplain shapes to show billions in development in the the most dangerous areas.
+
+---
+
+## **Jonah Newman**
+### **[The Chicago Reporter](http://www.chicagoreporter.com/)**
+
+**Contact**: jnewman@chicagoreporter.com
+
+  *  We created [this interactive](http://www.chicagoreporter.com/99reforms/#/) to help community members, political leaders, and other journalists track the progress the city is making on the recommendations for police reform made by the DOJ. This project was done by 3 people: a reporter (myself), a developer (Geoff Hing) and an editor (Matt Kiefer).
+
+---
+
+## **Sean McMinn**
+### **[CQ/Roll Call](https://cqrollcall.com/)**
+
+**Contact**: seanpm92@gmail.com
+
+  *  [This election guide](http://media.cq.com/year-ahead-2018/) combines FEC, Inside Elections race rating and newsroom reporting to present a definitive guide to all the elections taking place in 2018.
+
+---
+
+## **Vanja Ivancevic**
+### **[DATUM (Vienna, Austria)](https://datum.at/)**
+
+**Contact**: vanja.ivancevic@gmail.com
+
+  *  [Data work portfolio](www.v3data.net )
+
+  * [Academic collaborations](https://v3data.net/2017/12/21/academic-collaborations/): Are there gender-biased networks in academia? I.e. Is there a tendency for men to work with men and women with other women?
+
+---
+
+## **David Eads**
+### **[ProPublica Illinois](https://www.propublica.org/illinois/)**
+
+**Contact**: david.eads@propublica.org
+
+  *  [A little widget showing campaign fundraising](https://www.propublica.org/nerds/illinois-governor-race-campaign-finance-widget-2018)
+
+---
+
+## **Matt Kiefer**
+### **[The Chicago Reporter](http://www.chicagoreporter.com/)**
+
+**Contact**: mkiefer@chicagoreporter.com
+
+  * [Settling for Misconduct](http://projects.chicagoreporter.com/settlements/)
+
+  * [Chi Census](https://github.com/thechicagoreporter/chi-census): compiles Census data from tracts into community areas (neighborhoods)
+
+  * [What happened to the closed school in your neighborhood?](http://www.chicagoreporter.com/what-happened-to-the-closed-school-in-your-neighborhood/)
+
+  * [Thousands of black students leave Chicago for other segregated districts](http://www.chicagoreporter.com/black-cps-student-migration/)
+
+  * [How we researched Chicago student transfer patterns](http://www.chicagoreporter.com/how-we-researched-cps-student-transfer-patterns/)
+
+  * [Wage theft victims have little chance of recouping pay in Illinois](http://www.chicagoreporter.com/wage-theft-victims-have-little-chance-of-recouping-pay-in-illinois/)
+
+  * [How we investigated wage enforcement at the Illinois Department of Labor](http://chicagoreporter.com/how-we-investigated-wage-enforcement-at-the-illinois-department-of-labor/)
+
+  * [Monitor Chicago’s police reforms](http://www.chicagoreporter.com/99reforms)
+
+---
+
+## **Stephen Stirling**
+### **[N.J. Advance Media](http://www.njadvancemedia.com/)**
+
+**Contact**: sstirling@njadvancemedia.com
+
+  *  [Death & Dysfunction: How N.J. fails the dead, betrays the living and is a national disgrace](http://death.nj.com)
