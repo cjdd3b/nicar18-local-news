@@ -63,10 +63,10 @@
 
   ---
 
-  ## Andrea Suozzo
-  ### **[Seven Days newspaper (Vermont)](http://www.sevendaysvt.com)**
+## Andrea Suozzo
+### **[Seven Days newspaper (Vermont)](http://www.sevendaysvt.com)**
 
-  **Contact**: andrea@sevendaysvt.com
+**Contact**: andrea@sevendaysvt.com
 
   * Vermont is a small state with a large tourism industry, so we wondered how home-sharing apps were altering the landscape. I [figured out](https://github.com/asuozzo/airbnb-analysis) how to get point-in-time Vermont listings from the site, which let us look at the distribution across the state. We expected to see the most listings in Burlington, our biggest city, but it turned out listings in the tiny ski towns were [off the charts](https://www.sevendaysvt.com/vermont/airbnb-snowballs-in-vermont-ski-towns-bringing-cash-and-concerns/Content?oid=10220050).
 
