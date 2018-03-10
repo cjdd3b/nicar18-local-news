@@ -58,7 +58,7 @@
 
   **Contact**: andrea@sevendaysvt.com
 
-    * Vermont is a small state with a large tourism industry, so we wondered how home-sharing apps were altering the landscape. I [figured out](https://github.com/asuozzo/airbnb-analysis) how to get point-in-time Vermont listings from the site, which let us look at the distribution across the state. We expected to see the most listings in Burlington, our biggest city, but it turned out listings in the tiny ski towns were [off the charts](https://www.sevendaysvt.com/vermont/airbnb-snowballs-in-vermont-ski-towns-bringing-cash-and-concerns/Content?oid=10220050).
+  * Vermont is a small state with a large tourism industry, so we wondered how home-sharing apps were altering the landscape. I [figured out](https://github.com/asuozzo/airbnb-analysis) how to get point-in-time Vermont listings from the site, which let us look at the distribution across the state. We expected to see the most listings in Burlington, our biggest city, but it turned out listings in the tiny ski towns were [off the charts](https://www.sevendaysvt.com/vermont/airbnb-snowballs-in-vermont-ski-towns-bringing-cash-and-concerns/Content?oid=10220050).
 
 ---
 
@@ -114,3 +114,4 @@ Although CBC is a large public broadcaster in Canada, I work out of the Montreal
   * [The Live New Jersey Outage Tracker](http://www.nj.com/news/index.ssf/2017/10/winds_knocks_out_power_tens_of_thousands_across_nj.html)
 
   * Basically, I built a scraper that scrapes all four major utility companies in New Jersey every 15 minutes and showcase the number of people who are experiencing power outages in a series of charts and graphics. It is embeddable, but also lives in its own [project page](https://s3.amazonaws.com/nj-apps/outage-tracker-2.0/data/index.html). Note: This is Phase 1 of the project. Phase 2 involves scraping town-by-town and ETA estimates. There will also be a quick load version for people who are experiencing power outages.
+
