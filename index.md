@@ -26,10 +26,20 @@
 
 ---
 
-## **Star Tribune TBD**
+## **Chase Davis**
 ### **[Star Tribune (Minneapolis, Minn.)](https://www.startribune.com/)**
 
-**Contact**: TBD
+**Contact**: chase.davis@startribune.com
+
+  * [Essential Twin Cities Guide](https://static.startribune.com/guide/): We put together this digital guide for visitors coming to Minneapolis for the Super Bowl. Led by newsroom developer Alan Palazzolo and digital designer Anna Boone.
+
+  * [Find the hottest Twin Cities housing markets of 2017](http://www.startribune.com/find-the-hottest-twin-cities-housing-markets-of-2017/474967133/): Data editor MaryJo Webster calculated a custom index of hot housing markets in the Twin Cities, which data reporter Jeff Hargarten later visualized and turned into a tool for readers.
+
+  * [Minnesota Picks the Super Bowl](http://www.startribune.com/who-s-going-to-win-minnesota-picks-the-super-bowl/469989743/): Digital designer Rahul Mukherjee, alongside reporters from the sports staff and across the newsroom, collected Super Bowl predictions from prominent Minnesotans and displayed them in this nifty layout.
+
+  * [The North Score](http://www.startribune.com/the-north-score-our-sports-analytics-beat/469939663/): Did you know the Star Tribune has an entire beat focused on sports analytics? You should find reporter Chris Hine here at the conference and ask him about it.
+
+  * [Where to watch the Vikings when you're not in Minnesota](http://www.startribune.com/where-to-watch-the-vikings-when-you-re-not-in-minnesota/470004143/) Matt DeLong, C.J. Sinner and Jeff Hargarten compiled and organized this tool for Minnesota expats who were looking for bars to watch the Vikings/Eagles NFC championship game.
 
 ---
 
